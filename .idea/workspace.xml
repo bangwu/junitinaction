@@ -37,12 +37,76 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/CalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23376623" vertical-offset="0" max-vertical-offset="765">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
               <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCaseA.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="385">
+              <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#202#203#0" expanded="true" />
+                <element signature="e#235#236#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCaseB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSuiteA.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteA.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestSuiteB.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMasterSuite.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestMasterSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,6 +161,11 @@
         <option value="$PROJECT_DIR$/test/main/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/Calculator.java" />
         <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseA.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseB.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteA.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteB.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestMasterSuite.java" />
       </list>
     </option>
   </component>
@@ -271,30 +340,7 @@
       <recent name="com.thoughtworks.lesson.one" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.addTest (1)">
-    <configuration default="false" name="CalculatorTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="junitinaction" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CalculatorTest" />
-      <option name="METHOD_NAME" value="addTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestMasterSuite">
     <configuration default="false" name="CalculatorTest.should_give_two_double_number_and_return_one_double" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="junitinaction" />
@@ -383,6 +429,34 @@
       <option name="MAIN_CLASS_NAME" value="com.thoughtworks.lesson.two.CalculatorTest" />
       <option name="METHOD_NAME" value="addTest" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestMasterSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.lesson.two.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="junitinaction" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.lesson.two" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.lesson.two.TestMasterSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -551,19 +625,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.should_give_two_double_number_and_return_one_double" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest (1)" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest (1)" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.should_give_two_double_number_and_return_one_double" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest (1)" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestMasterSuite" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest (1)" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest.should_give_two_double_number_and_return_one_double" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestMasterSuite" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.CalculatorTest.addTest (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.CalculatorTest (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.CalculatorTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.CalculatorTest.should_give_two_double_number_and_return_one_double" />
       </list>
     </recent_temporary>
   </component>
@@ -666,9 +740,63 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23376623" vertical-offset="0" max-vertical-offset="765">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestSuiteB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestMasterSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="270">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/two/TestCaseA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38961038" vertical-offset="0" max-vertical-offset="385">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#202#203#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
