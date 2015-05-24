@@ -14,4 +14,13 @@ public class TestAccount {
         Account debit = new Account();
         credit.transfer(debit, amountToTransfer);
     }
+
+    @Test
+    public void transferSuccess() throws Exception {
+        long balance = 2000;
+        long amountToTransfer = 1000;
+        Account account = new Account(balance);
+        Account account1 = new Account();
+        account.transfer(account1,amountToTransfer);
+    }
 }

@@ -18,11 +18,11 @@ public class Account {
             throw new Exception();
         }else{
             this.balance -= amountToTranfer;
-            debit.addBanance(amountToTranfer);
+            debit.addBalance(amountToTranfer);
         }
     }
 
-    private void addBanance(long amountToTranfer) {
+    private void addBalance(long amountToTranfer) {
         this.balance +=amountToTranfer;
     }
 }
