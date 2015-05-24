@@ -38,78 +38,130 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="DefaultController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/three/DefaultController.java">
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="675">
-              <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="480">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#329#330#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#474#475#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestDefaultController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/three/TestDefaultController.java">
+      <file leaf-file-name="AccountService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="526" max-vertical-offset="885">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1086#1087#0" expanded="true" />
-                <element signature="e#1123#1124#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/four/TestAccount.java">
+      <file leaf-file-name="AccountServiceTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/AccountServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+              <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Vehicle.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Vehicle.java">
+      <file leaf-file-name="TestGetContent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/TestGetContent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.31105992" vertical-offset="0" max-vertical-offset="434">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="35" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestWebClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/TestWebClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+              <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
               <folding>
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#322#323#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Driver.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Driver.java">
+      <file leaf-file-name="WebClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/WebClient.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/four/Account.java">
+      <file leaf-file-name="MockURL.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockURL.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="510">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="450">
+              <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
               <folding>
-                <element signature="e#168#169#0" expanded="true" />
-                <element signature="e#206#207#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
-                <element signature="e#262#263#0" expanded="true" />
-                <element signature="e#593#594#0" expanded="true" />
-                <element signature="e#639#640#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockHttpURLConnection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockHttpURLConnection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7580645" vertical-offset="16" max-vertical-offset="810">
+              <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+                <element signature="e#646#647#0" expanded="true" />
+                <element signature="e#779#780#0" expanded="true" />
+                <element signature="e#835#836#0" expanded="true" />
+                <element signature="e#878#879#0" expanded="true" />
+                <element signature="e#917#918#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccountManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MockAccountManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockAccountManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="435">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#432#433#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -153,8 +205,18 @@
         <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/three/TestDefaultController.java" />
         <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/four/Account.java" />
         <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/four/TestAccount.java" />
-        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Vehicle.java" />
         <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Driver.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Vehicle.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountManager.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockAccountManager.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockURL.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/WebClient.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/TestWebClient.java" />
+        <option value="$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/TestGetContent.java" />
+        <option value="$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockHttpURLConnection.java" />
       </list>
     </option>
   </component>
@@ -254,7 +316,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="four" />
+              <option name="myItemId" value="seven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -302,7 +364,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="five" />
+              <option name="myItemId" value="seven" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -327,9 +389,18 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="FullScreen" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.thoughtworks.lesson.seven" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.thoughtworks.lesson.seven" />
       <recent name="com.thoughtworks.lesson.four" />
       <recent name="com.thoughtworks.lesson.three" />
       <recent name="com.thoughtworks.lesson.two" />
@@ -340,35 +411,7 @@
       <recent name="com.thoughtworks.lesson.one" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestAccount">
-    <configuration default="false" name="TestMasterSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.thoughtworks.lesson.two.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="junitinaction" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.thoughtworks.lesson.two" />
-      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.lesson.two.TestMasterSuite" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.AccountServiceTest.testTransfer">
     <configuration default="false" name="TestDefaultController.testController" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -481,6 +524,34 @@
       <patterns />
       <RunnerSettings RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="AccountServiceTest.testTransfer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.thoughtworks.lesson.seven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="junitinaction" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.thoughtworks.lesson.seven" />
+      <option name="MAIN_CLASS_NAME" value="com.thoughtworks.lesson.seven.AccountServiceTest" />
+      <option name="METHOD_NAME" value="testTransfer" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -637,19 +708,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestMasterSuite" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testController" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testAddHandler" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TestAccount.tranferWithoutEnoughFunds" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TestAccount" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testController" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testAddHandler" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestAccount.tranferWithoutEnoughFunds" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestAccount" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.AccountServiceTest.testTransfer" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TestAccount" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TestAccount.tranferWithoutEnoughFunds" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testAddHandler" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testController" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestMasterSuite" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.AccountServiceTest.testTransfer" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestAccount" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestAccount.tranferWithoutEnoughFunds" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testAddHandler" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.TestDefaultController.testController" />
       </list>
     </recent_temporary>
   </component>
@@ -850,10 +921,10 @@
         <state vertical-scroll-proportion="0.5013928" vertical-offset="15" max-vertical-offset="435">
           <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding>
-            <element signature="e#372#373#0" expanded="true" />
-            <element signature="e#402#403#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="false" />
+            <element signature="e#402#403#0" expanded="false" />
+            <element signature="e#441#442#0" expanded="false" />
+            <element signature="e#473#474#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -863,7 +934,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="165" max-vertical-offset="675">
           <caret line="13" column="51" selection-start-line="13" selection-start-column="51" selection-end-line="13" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -873,9 +944,9 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="885">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1086#1087#0" expanded="true" />
-            <element signature="e#1123#1124#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1086#1087#0" expanded="false" />
+            <element signature="e#1123#1124#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -913,12 +984,121 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/five/Vehicle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31105992" vertical-offset="0" max-vertical-offset="434">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="35" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="345">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
+            <element signature="e#193#194#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
             <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#322#323#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="46" max-vertical-offset="480">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#474#475#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="405">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockAccountManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1" max-vertical-offset="435">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/AccountManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockURL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="450">
+          <caret line="12" column="77" selection-start-line="12" selection-start-column="77" selection-end-line="12" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/WebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="14" column="55" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/TestWebClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/main/com/thoughtworks/lesson/seven/TestGetContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/com/thoughtworks/lesson/seven/MockHttpURLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7580645" vertical-offset="16" max-vertical-offset="810">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#646#647#0" expanded="true" />
+            <element signature="e#779#780#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#917#918#0" expanded="true" />
           </folding>
         </state>
       </provider>
